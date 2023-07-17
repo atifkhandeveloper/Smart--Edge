@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/pink"
+    >
+
+    <ImageView
+        android:layout_margin="@dimen/_5sdp"
+        android:layout_centerInParent="true"
+        android:id="@+id/iv_default_theme_view"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_30sdp" />
+    <TextView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Theme Name"
+        android:id="@+id/default_theme_name"/>
+</RelativeLayout>

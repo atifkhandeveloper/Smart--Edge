@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory
+        android:title="@string/title_config">
+        <SwitchPreference
+            android:key="event_screenon"
+            android:title="@string/event_screen"/>
+
+        <SwitchPreference
+            android:key="event_dnd"
+            android:title="@string/event_dnd"/>
+
+        <SwitchPreference
+            android:key="event_onlyflat"
+            android:title="@string/event_onlyflat"/>
+
+        <SwitchPreference
+            android:key="event_noisedetector"
+            android:title="Limite sonore"/>
+        <Preference
+            android:dependency="event_noisedetector"
+            android:key="event_noiselimit"
+            android:title="Limite"/>
+
+        <Preference
+            android:key="settings_theme"
+            android:title="@string/settings_night" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item  android:gravity="center" android:height="@dimen/_5sdp">
+        <clip>
+            <shape
+                android:shape="rectangle" >
+                <corners
+                    android:radius="5dp" />
+                <gradient android:startColor="@color/seekbar_start" android:endColor="@color/seekbar_end"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,92 @@
+<resources>
+
+
+    <string name="app_name">Smart Edge</string>
+    <string name="cover">cover</string>
+    <string name="pause_play">pause/play</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_get_started_the_app_needs_some_required_permissions">To get started, the app needs some required permissions</string>
+    <string name="draw_over_other_apps">Draw over other apps</string>
+    <string name="notification_access">Notification Access</string>
+    <string name="record_audio_from_apps">Record Audio from apps</string>
+    <string name="enable_smart_edge">Enable Smart Edge</string>
+    <string name="enable_hardware_acceleration">Enable Hardware Acceleration</string>
+    <string name="access_description">Turn on to let the app draw over status bar</string>
+    <string name="x_offset">X offset</string>
+    <string name="y_offset">Y offset</string>
+    <string name="height_of_overlay_when_shrinked">Height of overlay when shrinked</string>
+    <string name="minimum_width_of_overlay_when_closed">Minimum Width of overlay when closed</string>
+    <string name="space_between_icons_when_overlay_is_shrinked">Space between icons when overlay is shrinked</string>
+    <string name="reset">Reset</string>
+    <string name="select_applications_to_allow">Select applications to allow</string>
+    <string name="all">all</string>
+    <string name="needed_to_show_notifications_and_media_sessions">Needed to show notifications and media sessions</string>
+    <string name="needed_to_show_song_visualizer_never_to_be_used_for_recording_mic_audio">Needed to show song visualizer. Never to be used for recording mic audio</string>
+    <string name="select_color_to_apply_to_background">Select color to apply to background</string>
+    <string name="color_hex">Color (hex)</string>
+    <string name="apply">Apply</string>
+
+
+    <string name="info_version" translatable="false">Version Application : %s</string>
+    <string name="info_version_code" translatable="false">Version Code : %s</string>
+    <string name="info_sources" translatable="false">Source Code : %s</string>
+    <string name="info_changelog" translatable="false">Changelog : %s</string>
+    <string name="info_premissions" translatable="false">Permissions info : %s</string>
+
+    <string name="settings_all">All contacts</string>
+    <string name="settings_contacts">Only my contacts</string>
+    <string name="title_event_type">Event type</string>
+    <string name="title_contact">Type of contact</string>
+    <string name="title_config">Settings</string>
+    <string name="event_call">On the calls</string>
+    <string name="event_sms">On messages</string>
+    <string name="event_screen">Only if the screen is off</string>
+    <string name="alert_title">Camera Permission</string>
+    <string name="alert_message">To access the camera flash it is necessary to grant CAMERA permission. If it is not granted, the application will not work.</string>
+    <string name="alert_positivebtn">Request</string>
+    <string name="error">Error</string>
+    <string name="alert_no_flash">Your device does not seem to have a flash. The application will not work.</string>
+    <string name="event_dnd">Bypass do not disturb mode</string>
+    <string name="event_onlyflat">Only if the phone is lying down</string>
+    <string name="toolbar_info">Info</string>
+    <string name="settings_night">Theme</string>
+    <string name="event_actif">Active</string>
+    <string name="title_activate">Activation of the application</string>
+    <string name="refresh_apps">Refresh</string>
+    <string name="load_in_progress">Loading …</string>
+    <string name="notification_listener_permission">Accès request</string>
+    <string name="notification_listener_permission_explanation">To use this feature, you grant access to notifications. Please activate the application in the following screen</string>
+    <string name="notify_grant_permission">Permission not grantede</string>
+    <string name="notify_list_apps">List of applications to notify</string>
+    <string name="tile_enabled">FlashAlert Enabled</string>
+    <string name="tile_disabled">FlashAlert Disabled</string>
+    <string name="sound_current_value">The current value is  %s</string>
+    <string name="sound_selected_value">The selected value is %s</string>
+    <string name="info_issues" translatable="false">Issues  : %s</string>
+    <string name="event_apps">Application notification</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="privacy">Teezed Codes built Tools and Productive Category apps as a Free app. This SERVICE is provided by Teezed Codes at no cost and is intended for use as is.
+      This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+      If you choose to use our Service, then you agree to the collection and use of information in relation to this policy..</string>
+
+
+    <string name="please_tick_the_box_to_accept_privacy_policy">Please tick the box to accept <u>Privacy Policy</u></string>
+    <string name="always_on_display">Always on Display</string>
+    <string name="feature_of_smart_phone">To show digital clock always on display we use AMOLED feature of smart phone.</string>
+    <string name="image">Image</string>
+    <string name="no_email">No Email</string>
+    <string name="no_browser">No Browser</string>
+
+
+    <string name="app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="app_open_id" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="native_ad" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admobBanner">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
